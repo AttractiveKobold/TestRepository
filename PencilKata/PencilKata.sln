@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PencilKata", "PencilKata\PencilKata.csproj", "{935586D9-0F9F-4E86-93C1-8B120456C914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PencilLibrary", "Pencil\PencilLibrary.csproj", "{8C1CF2FC-F150-4642-A2D6-D99D9D5E38FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935586D9-0F9F-4E86-93C1-8B120456C914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935586D9-0F9F-4E86-93C1-8B120456C914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935586D9-0F9F-4E86-93C1-8B120456C914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935586D9-0F9F-4E86-93C1-8B120456C914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C1CF2FC-F150-4642-A2D6-D99D9D5E38FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1CF2FC-F150-4642-A2D6-D99D9D5E38FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1CF2FC-F150-4642-A2D6-D99D9D5E38FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1CF2FC-F150-4642-A2D6-D99D9D5E38FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B7B90A-8928-4834-B4A8-E0E654DC4C1A}
+	EndGlobalSection
+EndGlobal
